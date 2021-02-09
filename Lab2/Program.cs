@@ -6,8 +6,11 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Why are you running!");
+            CoolTool ct  = new CoolTool(12);
+            ct.printMatrix();
+            ct.Sort();
+            Console.WriteLine();
+            ct.printMatrix();
         }
     }
 }
