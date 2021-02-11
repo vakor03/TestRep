@@ -14,8 +14,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Bugs.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/CoolTool.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/FileManager.cs" />
       </list>
     </option>
   </component>
@@ -59,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612897007002</updated>
       <workItem from="1612897010370" duration="4841000" />
+      <workItem from="1613065470816" duration="709000" />
     </task>
     <servers />
   </component>
@@ -89,9 +91,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612897007018" />
-    <state x="670" y="198" key="RiderGenerateDialog" timestamp="1612900486216">
+    <state x="670" y="198" key="RiderGenerateDialog" timestamp="1613065753108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="670" y="198" key="RiderGenerateDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612900486216" />
+    <state x="670" y="198" key="RiderGenerateDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613065753108" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613065966350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613065966350" />
   </component>
 </project>
