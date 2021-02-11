@@ -12,28 +12,23 @@ namespace Lab2
             this.lengthOfMatrix = lengthOfMatrix;
             matrix = Generate();
         }
-
-        
-        
-            
-        
         private int[][] Generate()
         {
             int[][] newMatr = new int[lengthOfMatrix][];
-                            for (int i = 0; i < lengthOfMatrix; i++)
-                            {
-                                newMatr[i] = new int[lengthOfMatrix];
-                            }
+            for (int i = 0; i < lengthOfMatrix; i++)
+            {
+                newMatr[i] = new int[lengthOfMatrix];
+            }
             
-                            Random rand = new Random();
-                            for (int i = 0; i < lengthOfMatrix; i++)
-                            {
-                                for (int j = 0; j < lengthOfMatrix; j++)
-                                {
-                                    newMatr[i][j] = rand.Next(1, 10);
-                                }
-                            }
-                            return newMatr;
+            Random rand = new Random();
+            for (int i = 0; i < lengthOfMatrix; i++)
+            {
+                for (int j = 0; j < lengthOfMatrix; j++)
+                {
+                    newMatr[i][j] = rand.Next(1, 10);
+                }
+            }
+            return newMatr;
         }
 
         public void printMatrix()
