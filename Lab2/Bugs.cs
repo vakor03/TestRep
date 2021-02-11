@@ -9,6 +9,7 @@
         {
             BugName = bugName;
             INTS = ints;
+	    Console.Writeline();
         }
     }
 }
