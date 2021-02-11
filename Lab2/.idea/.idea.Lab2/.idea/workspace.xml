@@ -15,8 +15,8 @@
       <list>
         <option value="$PROJECT_DIR$/Bugs.cs" />
         <option value="$PROJECT_DIR$/CoolTool.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/FileManager.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612897007002</updated>
       <workItem from="1612897010370" duration="4841000" />
-      <workItem from="1613065470816" duration="709000" />
+      <workItem from="1613065470816" duration="3615000" />
     </task>
     <servers />
   </component>
@@ -71,22 +71,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="779" key="GridCell.Tab.0.bottom" timestamp="1612902399199">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1613068587952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="779" key="GridCell.Tab.0.bottom/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612902399199" />
-    <state width="1877" height="779" key="GridCell.Tab.0.center" timestamp="1612902399199">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613068587952" />
+    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1613068587952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="779" key="GridCell.Tab.0.center/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612902399199" />
-    <state width="1877" height="779" key="GridCell.Tab.0.left" timestamp="1612902399199">
+    <state width="1877" height="233" key="GridCell.Tab.0.center/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613068587952" />
+    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1613068587952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="779" key="GridCell.Tab.0.left/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612902399199" />
-    <state width="1877" height="779" key="GridCell.Tab.0.right" timestamp="1612902399199">
+    <state width="1877" height="233" key="GridCell.Tab.0.left/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613068587952" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1613068587952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="779" key="GridCell.Tab.0.right/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1612902399199" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613068587952" />
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1612897007018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,19 +1,46 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 
 namespace Lab2
 {
     public class FileManager
     {
         private FileInfo fileInf;
+
+        public string path { get; }
         public FileManager(string path)
         {
             this.path = path;
             fileInf = new FileInfo(path);
+            
         }
 
-        private string path { get;}
+        
+        
+        public void CreateFile()
+        {
+            if (!fileInf.Exists)
+            {
+                File.Create(path);
+            }
+        }
+        // public string ReadJustBecause()
+        // {
+        //     StreamReader sr = new StreamReader(path);
+        //     string str = sr.ReadLine();
+        //     sr.Close();
+        //     return str;
+        // }
 
+        public void WriteToFile(string Massage)
+        {
+            StreamWriter sw = new StreamWriter(path, true);
+            sw.WriteLine(Massage);
+            sw.Close();
+        }
+        
+        
         public void PrintSMTH()
         {
             if (fileInf.Exists)
